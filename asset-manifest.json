@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecommarce-Web-App/static/css/main.4f24d1bd.css",
+    "main.js": "/Ecommarce-Web-App/static/js/main.1a0bc8f6.js",
+    "index.html": "/Ecommarce-Web-App/index.html",
+    "main.4f24d1bd.css.map": "/Ecommarce-Web-App/static/css/main.4f24d1bd.css.map",
+    "main.1a0bc8f6.js.map": "/Ecommarce-Web-App/static/js/main.1a0bc8f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f24d1bd.css",
+    "static/js/main.1a0bc8f6.js"
+  ]
+}
